@@ -131,7 +131,7 @@ TEST(AdventOfCode7, xABBAx_Hyper_ABxBA)
 
 TEST(AdventOfCode7, Quest1)
 {
-  std::ifstream file("C:\\programming\\adventofcode\\input\\input7_1.txt");
+  std::ifstream file("C:\\programming\\advent2016\\input\\input7_1.txt");
   std::string str;
   int count = 0;
 
@@ -149,7 +149,7 @@ TEST(AdventOfCode7, Quest1)
 
 TEST(DISABLED_AdventOfCode7, Quest1Reg)
 {
-  std::ifstream file("C:\\programming\\adventofcode\\input\\input7_1.txt");
+  std::ifstream file("C:\\programming\\advent2016\\input\\input7_1.txt");
   std::string str;
   int count = 0;
 
@@ -165,7 +165,7 @@ TEST(DISABLED_AdventOfCode7, Quest1Reg)
 }
 
 TEST(AdventOfCode7, Quest2) {
-  std::ifstream file("C:\\programming\\adventofcode\\input\\input7_1.txt");
+  std::ifstream file("C:\\programming\\advent2016\\input\\input7_1.txt");
   std::string str;
   int count = 0;
 

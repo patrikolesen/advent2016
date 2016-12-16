@@ -7,7 +7,7 @@
 
 TEST(AdventOfCode6, Quest1)
 {
-  std::ifstream file("C:\\programming\\adventofcode\\input\\input6_1.txt");
+  std::ifstream file("C:\\programming\\advent2016\\input\\input6_1.txt");
   std::string str;
   std::map<char, int> charCount[10];
   char passwd[9];
@@ -37,7 +37,7 @@ TEST(AdventOfCode6, Quest1)
 
 TEST(AdventOfCode6, Quest2)
 {
-  std::ifstream file("C:\\programming\\adventofcode\\input\\input6_1.txt");
+  std::ifstream file("C:\\programming\\advent2016\\input\\input6_1.txt");
   std::string str;
   std::map<char, int> charCount[10];
   char passwd[9];

@@ -42,7 +42,7 @@ TEST(AdventOfCode3, InvalidTriangleSwapped)
 
 TEST(AdventOfCode3, Quest1)
 {
-  std::ifstream file("C:\\programming\\adventofcode\\input\\input3_1.txt");
+  std::ifstream file("C:\\programming\\advent2016\\input\\input3_1.txt");
   std::string str;
   char *token = NULL;
   char *next_token = NULL;
@@ -69,7 +69,7 @@ TEST(AdventOfCode3, Quest1)
 
 TEST(AdventOfCode3, Quest2)
 {
-  std::ifstream file("C:\\programming\\adventofcode\\input\\input3_1.txt");
+  std::ifstream file("C:\\programming\\advent2016\\input\\input3_1.txt");
   std::string str;
   char *token = NULL;
   char *next_token = NULL;

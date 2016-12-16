@@ -149,6 +149,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Day_10_test.cpp" />
     <ClCompile Include="Day_12_test.cpp" />
     <ClCompile Include="Day_1_test.cpp" />
     <ClCompile Include="Day_2_test.cpp" />

@@ -130,7 +130,7 @@ TEST(AdventOfCode8, Test) {
 #endif
 #if 1
 TEST(AdventOfCode8, Quest1) {
-  std::ifstream file("C:\\programming\\adventofcode\\input\\input8.txt");
+  std::ifstream file("C:\\programming\\advent2016\\input\\input8.txt");
   std::string str;
   Display display;
 

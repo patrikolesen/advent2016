@@ -100,7 +100,7 @@ TEST(AdventOfCode4, Test2)
 
 TEST(AdventOfCode4, Quest1)
 {
-  std::ifstream file("C:\\programming\\adventofcode\\input\\input4_1.txt");
+  std::ifstream file("C:\\programming\\advent2016\\input\\input4_1.txt");
   std::string str;
   int sum = 0;
 
@@ -115,7 +115,7 @@ TEST(AdventOfCode4, Quest1)
 
 TEST(AdventOfCode4, Quest2)
 {
-  std::ifstream file("C:\\programming\\adventofcode\\input\\input4_1.txt");
+  std::ifstream file("C:\\programming\\advent2016\\input\\input4_1.txt");
   std::string str;
   int sum = 0;
 

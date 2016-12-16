@@ -71,7 +71,7 @@ TEST(AdventOfCode9, Test2) {
 }
 
 TEST(AdventOfCode9, Quest1) {
-  std::ifstream file("C:\\programming\\adventofcode\\input\\input9.txt");
+  std::ifstream file("C:\\programming\\advent2016\\input\\input9.txt");
   std::string str;
 
   while (std::getline(file, str)) {
@@ -80,7 +80,7 @@ TEST(AdventOfCode9, Quest1) {
 }
 
 TEST(AdventOfCode9, Quest2) {
-  std::ifstream file("C:\\programming\\adventofcode\\input\\input9.txt");
+  std::ifstream file("C:\\programming\\advent2016\\input\\input9.txt");
   std::string str;
 
   while (std::getline(file, str)) {

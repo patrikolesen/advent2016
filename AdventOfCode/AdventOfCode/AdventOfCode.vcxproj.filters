@@ -13,7 +13,7 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\Day1">
+    <Filter Include="Source Files\Helper">
       <UniqueIdentifier>{33d0d4aa-485b-4aee-85a5-223d9382bbc0}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -34,7 +34,7 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="md5.cpp">
-      <Filter>Source Files\Day1</Filter>
+      <Filter>Source Files\Helper</Filter>
     </ClCompile>
     <ClCompile Include="Day_6_test.cpp">
       <Filter>Source Files</Filter>
@@ -54,13 +54,16 @@
     <ClCompile Include="Day_9_test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Day_10_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Walker.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="md5.h">
-      <Filter>Source Files\Day1</Filter>
+      <Filter>Source Files\Helper</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

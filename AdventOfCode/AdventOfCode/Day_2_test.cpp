@@ -93,7 +93,7 @@ TEST(AdventOfCode2, GoRight)
 }
 TEST(AdventOfCode2, Quest1)
 {
-  std::ifstream file("C:\\programming\\adventofcode\\input\\input2_1.txt");
+  std::ifstream file("C:\\programming\\advent2016\\input\\input2_1.txt");
   std::string str = "";
 
   std::string result = "";
@@ -124,7 +124,7 @@ TEST(AdventOfCode2, Test2) {
 
 TEST(AdventOfCode2, Quest2)
 {
-  std::ifstream file("C:\\programming\\adventofcode\\input\\input2_1.txt");
+  std::ifstream file("C:\\programming\\advent2016\\input\\input2_1.txt");
   std::string str = "";
   std::string result = "";
   Keypad keypad(Keypad::KEYPAD2);
